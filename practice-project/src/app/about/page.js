@@ -6,6 +6,9 @@ const AboutPage = () => {
     <div>
       <h1> About Page</h1>
       <Link href="/">Go to home page</Link>
+      <br />
+      <Link href="/about/aboutstudent">About Student</Link>
+      <Link href="/about/aboutcollege">About College</Link>
     </div>
   );
 };
