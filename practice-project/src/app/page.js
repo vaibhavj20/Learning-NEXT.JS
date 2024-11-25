@@ -17,7 +17,7 @@ export default function Home() {
   return (
     <div className="para">
       <h1 className="heading-clr">Learning NEXT.JS</h1>
-      <h2>Basic Routing</h2>
+      <h2>Nested Routing</h2>
       <Link href="/login">Go to login page</Link>
       <br />
       <br />
