@@ -7,7 +7,7 @@ const LoginPage = () => {
   const navigate = useRouter();
   return (
     <div>
-      <h1>This is login page</h1>
+      <h1 className="heading">login page</h1>
       <Link href="/">Go to homepage</Link>
       <br />
       <br />

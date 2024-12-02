@@ -1,7 +1,11 @@
 import React from "react";
 
 const AboutStudent = () => {
-  return <div>About Student Page</div>;
+  return (
+    <div>
+      <h1 className="heading"> About Student Page</h1>
+    </div>
+  );
 };
 
 export default AboutStudent;

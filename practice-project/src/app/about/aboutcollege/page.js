@@ -1,7 +1,11 @@
 import React from "react";
 
 const AboutCollege = () => {
-  return <div>About College page</div>;
+  return (
+    <div>
+      <h1 className="heading">About College page</h1>
+    </div>
+  );
 };
 
 export default AboutCollege;
